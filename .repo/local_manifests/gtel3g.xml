@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project name="gtel3g/android_device_samsung_gtel3g" 
+           path="device/samsung/gtel3g" 
+           remote="github" 
+           revision="master" />
+
+  <!-- Kernel -->
+  <project name="gtel3g/kernel_samsung_gtel3g" 
+           path="kernel/samsung/gtel3g" 
+           remote="github" 
+           revision="los-14.1" />
+
+  <!-- Vendor -->
+  <project name="gtel3g/android_vendor_samsung_gtel3g" 
+           path="vendor/samsung/gtel3g" 
+           remote="github" 
+           revision="master" />
+</manifest>
